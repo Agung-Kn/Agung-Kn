@@ -1,10 +1,6 @@
 <div align="center">
-  <img height="100" src="https://capsule-render.vercel.app/api?text=Hello There!🧬&animation=fadeIn&type=waving&color=gradient&height=100"  />
+  <img height="100" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Hello%20There!%20🧬&reversal=false&fontAlign=50&fontAlignY=50&animation=fadeIn&section=header"  />
 </div>
-
-###
-
-<br clear="both">
 
 <h1 align="left"></h1>
 
