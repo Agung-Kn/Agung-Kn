@@ -1,10 +1,12 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hello%20There!%20🧬&reversal=false&fontAlign=50&fontAlignY=35&animation=twinkling"/>
-</p>
+<div align="center">
+  <img height="100" src="https://capsule-render.vercel.app/api?text=Hello There!🧬&animation=fadeIn&type=waving&color=gradient&height=100"  />
+</div>
+
+###
 
 <br clear="both">
 
-<h1 align="left">Hello World!!</h1>
+<h1 align="left"></h1>
 
 ###
 
@@ -53,11 +55,14 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Agung-Kn.Agung-Kn&right_color=indigo"  />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Agung-Kn/count.svg?"  />
+</div>
 
 ###
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=false&fontAlign=50&fontAlignY=35&animation=twinkling&section=footer"/>
-</p>
+
+<div align="center">
+  <img height="100" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=false&fontAlign=50&fontAlignY=35&animation=twinkling&section=footer"  />
+</div>
+
+###
