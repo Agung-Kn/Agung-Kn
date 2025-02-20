@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hello%20There!%20🧬&reversal=false&fontAlign=50&fontAlignY=35&animation=twinkling"/>
+</p>
+
 <br clear="both">
 
 <h1 align="left">Hello World!!</h1>
@@ -34,6 +38,10 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/Agung-Kn/Agung-Kn/output/snake.svg" alt="Snake animation" />
+
+###
+
 <br clear="both">
 
 <div align="center">
@@ -50,3 +58,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Agung-Kn.Agung-Kn&right_color=indigo"  />
 
 ###
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=false&fontAlign=50&fontAlignY=35&animation=twinkling&section=footer"/>
+</p>
