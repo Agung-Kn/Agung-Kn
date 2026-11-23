@@ -12,10 +12,10 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently building web applications with **Java Spring Boot** and **React**
-- ⚙️ Experienced in REST API development, frontend state management (RTK Query)
-- 🌱 Always learning and improving my code quality and architecture
-- 💬 Open to collaboration and discussion on web development
+- Currently building web applications with **Java Spring Boot** and **React**
+- Experienced in REST API development, frontend state management (RTK Query)
+- Always learning and improving my code quality and architecture
+- Open to collaboration and discussion on web development
 
 ---
 
